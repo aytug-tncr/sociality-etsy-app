@@ -22,7 +22,7 @@ its that easy :)
 I am using docker for the first time, I hope no problem occurs. Feel free to contact in case of problem.
 
 
-###Details of the project
+### Details of the project
 
 Rest Api server is running :
 
@@ -32,7 +32,7 @@ Client  server is running :
 
 http://localhost:4000
 
-###Rest Api
+### Rest Api
 
 |  Method |  Url |  description |
 | ------------ | ------------ | ------------ |
