@@ -23,11 +23,11 @@ its that easy :)
 
 ### Details of the project
 
-Rest Api server is running :
+Clientserver is running :
 
 http://localhost:3000
 
-Client  server is running :
+Rest Api server is running :
 
 http://localhost:4000
 
