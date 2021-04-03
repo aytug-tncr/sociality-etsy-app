@@ -23,7 +23,7 @@ its that easy :)
 
 ### Details of the project
 
-Clientserver is running :
+Client server is running :
 
 http://localhost:3000
 
