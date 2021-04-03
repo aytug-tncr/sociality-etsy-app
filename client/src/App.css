@@ -1,0 +1,15 @@
+.site-layout .site-layout-background {
+  background: #fff;
+}
+.logo {
+  height: 32px;
+  margin: 16px;
+}
+.search {
+  width: 450px;
+}
+@media only screen and (max-width: 600px) {
+  .search {
+    width: 100%;
+  }
+}
