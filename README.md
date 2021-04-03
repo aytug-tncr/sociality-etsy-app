@@ -18,8 +18,7 @@ and
 
 
 its that easy :)
-> 
-I am using docker for the first time, I hope no problem occurs. Feel free to contact in case of problem.
+> I am using docker for the first time, I hope no problem occurs. Feel free to contact in case of problem.
 
 
 ### Details of the project
